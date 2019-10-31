@@ -1,0 +1,138 @@
+fr:
+  pageflow:
+    public:
+      _language: Français
+      audio: Audio
+      back: Précédent
+      back_to_chapter: Retour à chapitre
+      before_after:
+        drag_hint: Appuyez sur le bouton gauche de la souris et déplacez-le vers la gauche ou la droite
+        hint: Affichage "avant/après"
+        leave_view: Quitter l'affichage "avant/après"
+        start: Lancer l'affichage "avant/après"
+        start_title: Lancer l'affichage "avant/après"
+      chapter: Chapitre
+      chart:
+        toggle: Activer/Désactiver
+      close: Fermer
+      close_hint: Fermer l’astuce
+      close_navigation: Fermer la navigation
+      close_overview: Fermer l’aperçu
+      cookie_notice_html: Ce site web utilise des cookies. En utilisant nos services, vous acceptez notre utilisation des cookies. <a href="%{privacyLinkUrl}" target="_blank">En savoir plus </a>
+      deprecated_browser: "<p>Votre navigateur est obsolète et il est possible que cette page ne fonctionne pas correctement. Nous vous recommandons de passer à la dernière version de votre navigateur.<p>"
+      dismiss_cookie_notice: Masquer
+      embedded_video:
+        leave_video: Quitter la vidéo intégrée
+      enlarge_view: Agrandir l’affichage
+      enter_fullscreen: Passer en mode plein écran
+      first_page: Première page
+      forward: Suivant
+      fullscreen: Plein écran
+      goto_first_page: Accéder à la première page
+      goto_top: Accéder à la première page
+      hide_text: Masquer le texte
+      home: Commencer
+      imprint: Achevé d'imprimer
+      javascript_hint: Pour un fonctionnement optimal et une meilleure expérience utilisateur, cette application nécessite l’utilisation de JavaScript. Il se peut que votre navigateur soit incompatible avec JavaScript ou que JavaScript soit désactivé.
+      languages:
+        ar: Arabe
+        cs: Tchèque
+        de: Allemand
+        dk: Danois
+        el: Grec
+        en: 'Anglais
+
+'
+        es: Espagnol
+        fr: Français
+        it: Italien
+        nl: Néerlandais
+        pl: Polonais
+        pt: Portugais
+        ru: Russe
+        sr: Serbe
+        tr: Turc
+        unknown: "(Inconnu)"
+        zh: Chinois
+      leave_fullscreen: Quitter le mode plein écran
+      lets_go: Démarrer
+      logo: Logo
+      media_quality: Qualité
+      mute_off: Désactiver Muet
+      mute_on: Muet
+      navigate_top: Accéder à la première page
+      navigation: Navigation
+      new_pages_box:
+        additional_pages_html: "… et <span></span> plus"
+        description: 'Depuis votre dernière visite, des pages ont été ajoutées à ce Pageflow:'
+        title: Nouvelles pages
+      notice: Remarque
+      open_audio: Ouvrir audio
+      open_navigation: Ouvrir la navigation
+      open_overview: Ouvrir l‘aperçu
+      open_video: Ouvrir vidéo
+      overview: Aperçu
+      panorama:
+        close: Fermer le panorama à 360° et afficher le texte
+        start: Démarrer le panorama à 360°
+      play_video: Lancer la vidéo
+      privacy_notice: Politique de confidentialité
+      scroll_back_indicator: 
+      scroll_down: "Faire défiler\t"
+      scroll_hint: Utilisez la roulette de la souris ou les touches de direction de votre clavier pour parcourir les pages.
+      scroll_indicator: Faire défiler pour continuer
+      scroll_left: Faire défiler vers la gauche
+      scroll_right: Faire défiler vers la droite
+      scroll_up: Faire défiler vers le haut
+      share: Partager
+      share_on_facebook: Partager sur Facebook
+      share_on_google: Partager sur Google+
+      share_on_twitter: Partager sur Twitter
+      share_this_entry: Cette histoire
+      share_this_page: Cette page
+      show_home: Commencer
+      show_text: Afficher le texte
+      skip_links_content: Accéder au contenu
+      skip_links_navigation: Accéder à la navigation
+      skip_links_top_navigation: Accéder à la navigation principale
+      sound_hint: Ce format d’histoire multimédia utilise du contenu audio et vidéo. Veuillez vérifier que vos haut-parleurs sont allumés.
+      start_audio: Démarrer Audio maintenant
+      start_video: Démarrer la vidéo maintenant
+      swipe_hint: Balayer pour parcourir les pages.
+      swipe_indicator: Balayer pour continuer
+      swipe_to_continue: Glissez pour continuer
+      text_track_modes:
+        auto: Auto (%{label})
+        auto_off: Auto (Désactivé)
+        none: "(Aucun)"
+      text_tracks: Sous-Titres
+      toggle_info_box: Activer/désactiver boîte d'info
+      video: Video
+      video_qualities:
+        annotations:
+          4k: 4K
+          fullhd: HD
+          medium: HD
+        labels:
+          4k: 2160p
+          auto: Auto
+          fullhd: 1080p
+          medium: 720p
+      volume: Volume
+      vr:
+        no_vr:
+          link: |2-
+
+            Afficher la vidéo dans l'application YouTube
+          text: Les vidéos à 360 ° ne peuvent pas être affichées dans votre navigateur.
+        select_quality: Choisissez la qualité vidéo
+        start: Regardez vidéo à 360°
+        start_cardboard: Démarrer le mode cardboard
+        video_qualities:
+          4k: 2160s
+          fullhd: 1080s
+          high: 720s
+        video_quality_annotations:
+          4k: 4K
+          fullhd: HD
+          high: HD

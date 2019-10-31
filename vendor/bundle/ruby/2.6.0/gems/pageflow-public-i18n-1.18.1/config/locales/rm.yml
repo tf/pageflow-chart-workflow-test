@@ -1,0 +1,134 @@
+rm:
+  pageflow:
+    public:
+      _language: Rumantsch
+      audio: Audio
+      back: Enavos
+      back_to_chapter: Enavos al chapitel
+      before_after:
+        drag_hint: 
+        hint: Vista avant/suenter
+        leave_view: Sortir da la vista avant/suenter
+        start: Cumenzar cun vista avant/suenter
+        start_title: Cumenzar cun vista avant/suenter
+      chapter: Chapitel
+      chart:
+        toggle: midar
+      close: Serrar
+      close_hint: Serrar tip
+      close_navigation: Serrar navigaziun
+      close_overview: Serrar survista
+      cookie_notice_html: 
+      deprecated_browser: "<p>Voss browser n'è betg pli actual ed i pudess esser, che questa pagina na funcziuna betg sco intenziunà. Nus proponin d'actualisar Voss browser a la versiun la pli actuala.</p>"
+      dismiss_cookie_notice: 
+      embedded_video:
+        leave_video: Sortir da embedded video
+      enlarge_view: Engrondir la vista
+      enter_fullscreen: Entrar en il modus da fullscreen
+      first_page: Emprima pagina
+      forward: Enavant
+      fullscreen: Fullscreen
+      goto_first_page: Ir a l'emprima pagina
+      goto_top: Ir a l'emprima pagina
+      hide_text: Zuppentar il text
+      home: Cumenzar
+      imprint: Impressum
+      javascript_hint: Questa applicaziun fa diever da JavaScript per dapli funcziuns e che la chaussa saja pli pratica per l'utilisader. Forsa na sustegna Voss browser betg JavaScript ni che JavaScript pudess esser deactivà.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
+      leave_fullscreen: Sortir dal modus da fullscreen
+      lets_go: Giaini!
+      logo: Logo
+      media_quality: 
+      mute_off: Puspè tadlar!
+      mute_on: Pssst!
+      navigate_top: Ir a l'emprima pagina
+      navigation: Navigaziun
+      new_pages_box:
+        additional_pages_html: "...e <span></span> dapli"
+        description: 'Dapi Voss''ultima visita èn vegnidas agiuntadas paginas a quest pageflow:'
+        title: Novas paginas
+      notice: Avis
+      open_audio: 
+      open_navigation: Avrir navigaziun
+      open_overview: Survista averta
+      open_video: 
+      overview: Survista
+      panorama:
+        close: Serrar panorama da 360° e mussar text
+        start: Cumenzar panorama da 360°
+      play_video: Laschar ir video
+      privacy_notice: 
+      scroll_back_indicator: " "
+      scroll_down: Scrollar engiu
+      scroll_hint: Duvrar la roda sin la mieur u las frizzas sin la tastatura per navigar tranter las paginas.
+      scroll_indicator: Scrollar engiu per continuar
+      scroll_left: Scrollar a la sanestra
+      scroll_right: Scrollar a la dretga
+      scroll_up: Scrollar ensi
+      share: Cundivider
+      share_on_facebook: Cundivider sin Facebook
+      share_on_google: Cundivider sin Google+
+      share_on_twitter: Cundivider sin Twitter
+      share_this_entry: Questa istorgia
+      share_this_page: Questa pagina
+      show_home: Cumenzar
+      show_text: Mussar text
+      skip_links_content: Ir al cuntegn
+      skip_links_navigation: Ir a la navigaziun
+      skip_links_top_navigation: Ir a la navigaziun principala
+      sound_hint: Questa istorgia multimediala ha videos cun audio. Guardai d'avair activà Voss autpledaders!
+      start_audio: Laschar ir l'audio uss
+      start_video: Laschar ir video uss
+      swipe_hint: Far vi e nà cun il det per navigar tranter paginas
+      swipe_indicator: Far vi e nà cun il det per cuntinuar
+      swipe_to_continue: 
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
+      toggle_info_box: 
+      video: Video
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
+      volume: Volumen dal tun
+      vr:
+        no_vr:
+          link: 
+          text: 
+        select_quality: 
+        start: 
+        start_cardboard: 
+        video_qualities:
+          4k: 
+          fullhd: 
+          high: 
+        video_quality_annotations:
+          4k: 
+          fullhd: 
+          high: 

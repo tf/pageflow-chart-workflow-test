@@ -1,0 +1,134 @@
+es:
+  pageflow:
+    public:
+      _language: Español
+      audio: Audio
+      back: Volver
+      back_to_chapter: Volver al capítulo
+      before_after:
+        drag_hint: Presionar el botón izquierdo y moverse a izquierda o derecha
+        hint: Vista antes/después
+        leave_view: Abandonar vista antes/después
+        start: Iniciar vista antes/después
+        start_title: Iniciar vista antes/después
+      chapter: Capítulo
+      chart:
+        toggle: Pulsar
+      close: Cerrar
+      close_hint: Cerrar consejo
+      close_navigation: Cerrar navegación
+      close_overview: Cerrar vista general
+      cookie_notice_html: 
+      deprecated_browser: "<p>La versión de su browser no es la más reciente por lo que ésta página puede funcionar de forma incorrecta. Le recomendamos actualizar su browser a la versión más actual.</p>"
+      dismiss_cookie_notice: 
+      embedded_video:
+        leave_video: Abandonar vídeo integrado
+      enlarge_view: Vista ampliada
+      enter_fullscreen: Iniciar modo de pantalla completa
+      first_page: Primera página
+      forward: Avanzar
+      fullscreen: Pantalla completa
+      goto_first_page: Ir a la primera página
+      goto_top: Ir a la primera página
+      hide_text: Ocultar texto
+      home: Inicio
+      imprint: Imprimir
+      javascript_hint: Esta aplicación utiliza JavaScript para una funcionalidad y experiencia de usuario óptimas. Su browser probablemente no es compatible con JavaScript o ésta función quizá se encuentre inhabilitada.
+      languages:
+        ar: Árabe
+        cs: 
+        de: Alemán
+        dk: Danés
+        el: Griego
+        en: Inglés
+        es: Español
+        fr: Francés
+        it: Italiano
+        nl: Holandés
+        pl: Polaco
+        pt: Portugués
+        ru: Ruso
+        sr: Serbio
+        tr: Turco
+        unknown: Desconocido
+        zh: Chino
+      leave_fullscreen: Abandonar modo de pantalla completa
+      lets_go: Comencemos
+      logo: Logo
+      media_quality: Calidad
+      mute_off: Abandonar modo silencio
+      mute_on: Iniciar modo silencio
+      navigate_top: Ir a la primera página
+      navigation: Navegación
+      new_pages_box:
+        additional_pages_html: "...y <span></span> más"
+        description: Desde su última visita han sido añadidas páginas a éste Pageflow
+        title: Páginas nuevas
+      notice: Nota
+      open_audio: Abrir audio
+      open_navigation: Abrir navegación
+      open_overview: Abrir vista general
+      open_video: Abrir video
+      overview: Vista general
+      panorama:
+        close: Cerrar vista panorama de 360° y mostrar texto
+        start: Iniciar vista panorama de 360°
+      play_video: Iniciar vídeo
+      privacy_notice: Nota privada
+      scroll_back_indicator: Desplazarse hacia atrás
+      scroll_down: Desplazarse hacia abajo
+      scroll_hint: Utilice la rueda de desplazamiento de su ratón o las teclas de dirección de su teclado para navegar entre las páginas.
+      scroll_indicator: Desplazarse hacia abajo para continuar
+      scroll_left: Desplazarse hacia la izquierda
+      scroll_right: Desplazarse hacia la derecha
+      scroll_up: Desplazarse hacia arriba
+      share: Compartir
+      share_on_facebook: Compartir en Facebook
+      share_on_google: Compartir en Google+
+      share_on_twitter: Compartir en Twitter
+      share_this_entry: Esta historia
+      share_this_page: Esta página
+      show_home: Inicio
+      show_text: Mostrar texto
+      skip_links_content: Ir al contenido
+      skip_links_navigation: Ir al menú
+      skip_links_top_navigation: Ir al menú principal
+      sound_hint: 'Este formato de historia multimedia utiliza secuencias de vídeo y audio. Por favor asegúrese de que sus altavoces estén encendidos.  '
+      start_audio: Iniciar audio ahora
+      start_video: Iniciar vídeo ahora
+      swipe_hint: Deslíze el dedo por la pantalla para navegar entre las páginas.
+      swipe_indicator: Deslíze el dedo por la pantalla para continuar
+      swipe_to_continue: 
+      text_track_modes:
+        auto: Auto (%{label})
+        auto_off: Auto (Apagado)
+        none: 
+      text_tracks: Subtítulos
+      toggle_info_box: 
+      video: Vídeo
+      video_qualities:
+        annotations:
+          4k: 4k
+          fullhd: Alta definición HD
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
+      volume: Volúmen
+      vr:
+        no_vr:
+          link: Mostrar video en la aplicación de Youtube
+          text: Los videos en 360 grados no pueden mostrarse en este navegador.
+        select_quality: Elegir calidad del video
+        start: Mirar video en 360 grados
+        start_cardboard: 
+        video_qualities:
+          4k: 
+          fullhd: 
+          high: 
+        video_quality_annotations:
+          4k: 
+          fullhd: 
+          high: 

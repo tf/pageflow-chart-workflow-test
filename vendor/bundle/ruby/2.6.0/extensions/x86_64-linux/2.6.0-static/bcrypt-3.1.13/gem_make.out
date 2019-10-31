@@ -1,0 +1,19 @@
+current directory: /home/runner/work/pageflow-embedded-video-workflow-test/pageflow-embedded-video-workflow-test/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+/opt/hostedtoolcache/Ruby/2.6.3/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.6.3/x64/lib/ruby/2.6.0 -r ./siteconf20191031-3243-1t3g6y4.rb extconf.rb
+creating Makefile
+
+current directory: /home/runner/work/pageflow-embedded-video-workflow-test/pageflow-embedded-video-workflow-test/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+make "DESTDIR=" clean
+
+current directory: /home/runner/work/pageflow-embedded-video-workflow-test/pageflow-embedded-video-workflow-test/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+make "DESTDIR="
+compiling bcrypt_ext.c
+compiling crypt_blowfish.c
+gcc  -D__SKIP_GNU     -c -o x86.o x86.S
+compiling crypt_gensalt.c
+compiling wrapper.c
+linking shared-object bcrypt_ext.so
+
+current directory: /home/runner/work/pageflow-embedded-video-workflow-test/pageflow-embedded-video-workflow-test/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.13/ext/mri
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bcrypt_ext.so ./.gem.20191031-3243-1ra6vpx

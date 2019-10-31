@@ -1,0 +1,134 @@
+pl-PL:
+  pageflow:
+    public:
+      _language: Polski
+      audio: Audio
+      back: Powrót
+      back_to_chapter: Powrót do rozdziału
+      before_after:
+        drag_hint: 
+        hint: Przed/po widoku
+        leave_view: Po podgląd i pokaż  tekst
+        start: Start widok przed/po
+        start_title: Start widok przed/po
+      chapter: Rozdział
+      chart:
+        toggle: Powiększ lub pomniejsz podgląd
+      close: Zamknij
+      close_hint: Zamknij wskazówkę
+      close_navigation: Zamknij nawigację
+      close_overview: Zamknij przegląd
+      cookie_notice_html: 
+      deprecated_browser: "<p> Szanowny uzytkowniku, </p><p>niestety używasz starej wersji przeglądarki, dlatego przygotowane treści nie  mogą być pokazane prawidłowo.  Prosimy zaktualizować do nowej wersji.</p>"
+      dismiss_cookie_notice: 
+      embedded_video:
+        leave_video: Opuść wbudowane video
+      enlarge_view: Powiększ podgląd
+      enter_fullscreen: Pełny ekran
+      first_page: Pierwsza strona
+      forward: Do przodu
+      fullscreen: Pełny ekran
+      goto_first_page: Do pierwszej strony
+      goto_top: Do początku
+      hide_text: Ukryj tekst
+      home: Strona główna
+      imprint: Nota
+      javascript_hint: Dla poprawnego działania strony potrzebujesz JavaScript.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
+      leave_fullscreen: Zakończ odtwarzanie w pełnym ekranie
+      lets_go: Rozpocznij
+      logo: Logo
+      media_quality: 
+      mute_off: Włącz dźwięk
+      mute_on: Wyłącz dźwięk
+      navigate_top: Do początku
+      navigation: Nawigacja
+      new_pages_box:
+        additional_pages_html: "...oraz <span></span>kolejne"
+        description: 'Od ostatniej wizyty to Pageflow zostały dodane nowe strony:'
+        title: Nowe strony
+      notice: Wskazówka
+      open_audio: 
+      open_navigation: Otwórz nawigację
+      open_overview: Otwórz przegląd
+      open_video: 
+      overview: Przegląd
+      panorama:
+        close: Opuść widok 360° i pokaż tekst
+        start: Otwórz widok 360°
+      play_video: Odtwórz video
+      privacy_notice: 
+      scroll_back_indicator: Przewijanie wstecz
+      scroll_down: Przewiń niżej
+      scroll_hint: Poprzez mysz lub strzałki na klawiaturze  zostanie przywołany kolejny rodział strony.
+      scroll_indicator: Przewiń aby czytać dalej
+      scroll_left: Przewiń w lewo
+      scroll_right: Przewiń w prawo
+      scroll_up: Przewiń do góry
+      share: Udostępnij
+      share_on_facebook: Udostępnij w facebook
+      share_on_google: Udostępnij w Google+
+      share_on_twitter: Udostępnij w Twitter
+      share_this_entry: Udsotępnij
+      share_this_page: Udostępnij stronę
+      show_home: Do strony głównej
+      show_text: Pokaż tekst
+      skip_links_content: Do treści
+      skip_links_navigation: Do nawigacji strony
+      skip_links_top_navigation: Do nawigacji górnej
+      sound_hint: W tym formacie reportażu udostępniamy obok zdjęć i treści również dźwięk , dlatego prosimy o odpowiednie uistawienie głośników w systemie.
+      start_audio: Włącz dźwięk
+      start_video: Rozpocznij video
+      swipe_hint: Przesunięcie spowoduje przejście do kolejnego rozdziału
+      swipe_indicator: Przesuń aby zobaczyć tekst
+      swipe_to_continue: 
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
+      toggle_info_box: 
+      video: Video
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
+      volume: głośność
+      vr:
+        no_vr:
+          link: 
+          text: 
+        select_quality: 
+        start: 
+        start_cardboard: 
+        video_qualities:
+          4k: 
+          fullhd: 
+          high: 
+        video_quality_annotations:
+          4k: 
+          fullhd: 
+          high: 

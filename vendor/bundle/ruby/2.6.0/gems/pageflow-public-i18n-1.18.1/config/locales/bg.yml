@@ -1,0 +1,134 @@
+bg:
+  pageflow:
+    public:
+      _language: Български
+      audio: Аудио
+      back: Назад
+      back_to_chapter: Назад към раздел
+      before_after:
+        drag_hint: 
+        hint: Изглед преди/след
+        leave_view: Излез от изглед преди/след
+        start: Стартирай изглед преди/след
+        start_title: Стартирай изглед преди/след
+      chapter: Раздел
+      chart:
+        toggle: Включване/Изключване
+      close: Затвори
+      close_hint: Затвори предложението
+      close_navigation: Затвори навигацията
+      close_overview: Затвори прегледа
+      cookie_notice_html: 
+      deprecated_browser: "<p>Вашият браузър не е обновен и тази страница може да не работи нормално. Препоръчваме обновяване на браузъра до най-новата версия.<p>"
+      dismiss_cookie_notice: 
+      embedded_video:
+        leave_video: Излез от вграденото видео
+      enlarge_view: Увеличи изгледа
+      enter_fullscreen: Влез в режим на цял екран
+      first_page: Първа страница
+      forward: Напред
+      fullscreen: Цял екран
+      goto_first_page: Отиди на първа страница
+      goto_top: Отиди на първа страница
+      hide_text: Скрий текста
+      home: Старт
+      imprint: Отпечатай
+      javascript_hint: Това приложение ползва JavaScript за по-добра функционалност и потребителско преживяване. JavaScript може да не се поддържа от Вашия браузър или да е деактивиран.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
+      leave_fullscreen: Излез от режим на цял екран
+      lets_go: Да тръгваме
+      logo: Лого
+      media_quality: 
+      mute_off: Включване на звука
+      mute_on: Спиране на звука
+      navigate_top: Отиди на първа страница
+      navigation: Навигация
+      new_pages_box:
+        additional_pages_html: "...и <span></span> повече"
+        description: 'След Вашето последно посещение бяха добавени страници към този поток:'
+        title: Нови Страници
+      notice: Известие
+      open_audio: 
+      open_navigation: Отвори навигацията
+      open_overview: Отвори прегледа
+      open_video: 
+      overview: Преглед
+      panorama:
+        close: Затвори 360° панорама и покажи текста
+        start: Стартирай 360° панорама
+      play_video: Пусни видеото
+      privacy_notice: 
+      scroll_back_indicator: Кликни тук за да въведеш текст/превод
+      scroll_down: Превърти надолу
+      scroll_hint: Използвайте колелцето на мишката или стрелките на вашата клавиатура за навигация през страниците.
+      scroll_indicator: Превърти надолу за да продължиш
+      scroll_left: Превърти наляво
+      scroll_right: Превърти надясно
+      scroll_up: Превърти нагоре
+      share: Сподели
+      share_on_facebook: Сподели във Facebook
+      share_on_google: Сподели в Google+
+      share_on_twitter: Сподели в Twitter
+      share_this_entry: Тази история
+      share_this_page: Тази страница
+      show_home: Старт
+      show_text: Покажи текста
+      skip_links_content: Отиди в съдържанието
+      skip_links_navigation: Към навигацията
+      skip_links_top_navigation: Към главната навигация
+      sound_hint: Този разказвателен мултимедиен формат ползва видео и аудио съдържание. Моля, уверете се, че говорителите са включени.
+      start_audio: Пусни звука сега
+      start_video: Пусни видеото сега
+      swipe_hint: Плъзни за навигация през страниците.
+      swipe_indicator: Плъзни за да продължиш
+      swipe_to_continue: 
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
+      toggle_info_box: 
+      video: Видео
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
+      volume: Сила на звука
+      vr:
+        no_vr:
+          link: 
+          text: 
+        select_quality: 
+        start: 
+        start_cardboard: 
+        video_qualities:
+          4k: 
+          fullhd: 
+          high: 
+        video_quality_annotations:
+          4k: 
+          fullhd: 
+          high: 

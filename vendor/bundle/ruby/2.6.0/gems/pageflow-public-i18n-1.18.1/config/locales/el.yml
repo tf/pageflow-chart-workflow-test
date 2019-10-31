@@ -1,0 +1,134 @@
+el:
+  pageflow:
+    public:
+      _language: Ελληνικά
+      audio: Ήχος
+      back: Πίσω
+      back_to_chapter: Πίσω στο κεφάλαιο
+      before_after:
+        drag_hint: 
+        hint: Πριν/μετα προβολή
+        leave_view: Αποχώριση πριν/μετα προβολή
+        start: Εκκίνιση πριν/μετα προβολή
+        start_title: Εκκίνιση πριν/μετα προβολή
+      chapter: Κεφάλαιο
+      chart:
+        toggle: Εναλακτικα
+      close: Κλείσιμο
+      close_hint: Κλείσιμο βοηθήματος
+      close_navigation: Κλείσιμο οδηγού
+      close_overview: Κλείσιμο επισκόπισης
+      cookie_notice_html: 
+      deprecated_browser: "<p>Το πρόγραμα περιήγησης σας έχει ξεπερασμένο λογισμικό  και ίσως να μην λητουργεί. Σας προτείνουμε να αναβαθμίσετε το πρόγραμα περιήγησης σας με την ποιο πρόσφατη έκδοση.</p>"
+      dismiss_cookie_notice: 
+      embedded_video:
+        leave_video: Αποχώριση ενσώματομενου βίντεο
+      enlarge_view: Μεγιστοποιηση προβολής
+      enter_fullscreen: Είσοδος σε πλήρης οθόνη
+      first_page: Πρώτη σελίδα
+      forward: Μπροστά
+      fullscreen: Πλήρης οθόνη
+      goto_first_page: Πήγαινε στην αρχική σελίδα
+      goto_top: Πήγαινε στην αρχική σελίδα
+      hide_text: Απόκρυψη κειμένου
+      home: Αρχική
+      imprint: Αποτύπωμα
+      javascript_hint: Αυτή η εφαρμογή χρησιμοποιεί JavaScript για καλύτερη απόδοση στον χρήστη. Το πρόγραμμα περιήγησης σας μπορεί να μην υποστηριζει το JavaScript ή να ειναι απενεργοποιημένο.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
+      leave_fullscreen: Έξοδος απο πλήρης οθόνη
+      lets_go: Εκκίνηση!
+      logo: Λογότυπο
+      media_quality: 
+      mute_off: Κατάργηση σίγασης
+      mute_on: Σίγαση
+      navigate_top: Πήγαινε στην αρχική σελίδα
+      navigation: Πλοήγηση
+      new_pages_box:
+        additional_pages_html: "...και <span></span> περισσότερες"
+        description: 'Απο την τελευταία σας επισκεψη , έχουν προστεθεί μερικές σελίδες στην pageflow:'
+        title: Νέες σελίδες
+      notice: ειδοποίηση
+      open_audio: 
+      open_navigation: Άνοιγμα πλοήγησης
+      open_overview: Άνοιγμα επισκόπησης
+      open_video: 
+      overview: Επισκόπηση
+      panorama:
+        close: κλείσιμο 360ᵒ πανοράματος και  απεικονιζόμενου κειμενού
+        start: εκκινήση 360ᵒ πανοράματος
+      play_video: αναπαραγωγή βιντεο
+      privacy_notice: 
+      scroll_back_indicator: 
+      scroll_down: Σκρολάρετε κάτω
+      scroll_hint: Χρησιμοποιήστε την ροδέλα ή τα βελάκια στο πληκτρολόγιο για να περιηγηθείτε ανάμεσα στις σελήδες
+      scroll_indicator: Σκρολάρετε κατω για να συνεχίσετε
+      scroll_left: Σκρολάρετε αριστερά
+      scroll_right: Σκρολάρετε δεξιά
+      scroll_up: Σκρολάρετε πάνω
+      share: Μοιραστείτε
+      share_on_facebook: Μοιραστείτε στο Facebook
+      share_on_google: Μοιραστείτε στο Google+
+      share_on_twitter: Μοιραστείτε στο Τwitter
+      share_this_entry: αυτή η ιστορία
+      share_this_page: αυτή η σελίδα
+      show_home: Έναρξη
+      show_text: Εμφάνιση κειμένου
+      skip_links_content: πήγαινε στο περιεχώμενο
+      skip_links_navigation: Πήγαινε στην περιήγηση
+      skip_links_top_navigation: Πήγαινε στην κεντρική περιήγηση
+      sound_hint: Αυτή η ιστορία χρησιμοποιεί οπτικοακουστίκο υλικό. Σιγουρευτείτε ότι το ηχείο σας είναι ανοιχτό.
+      start_audio: Έναρξη ήχου τώρα
+      start_video: Έναρξή βίντεο τώρα
+      swipe_hint: σύρετε την οθόνη για να περιηγηθείτε ανάμεσα στις σελίδες
+      swipe_indicator: σύρετε την οθόνη για να συνεχήσετε
+      swipe_to_continue: 
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
+      toggle_info_box: 
+      video: βίντεο
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
+      volume: Ήχος
+      vr:
+        no_vr:
+          link: 
+          text: 
+        select_quality: 
+        start: 
+        start_cardboard: 
+        video_qualities:
+          4k: 
+          fullhd: 
+          high: 
+        video_quality_annotations:
+          4k: 
+          fullhd: 
+          high: 

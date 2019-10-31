@@ -1,0 +1,134 @@
+cs-CZ:
+  pageflow:
+    public:
+      _language: Česky
+      audio: Zvuk
+      back: Zpět
+      back_to_chapter: Zpět do sekce
+      before_after:
+        drag_hint: Zmáčkněte levé tlačítko myši a pohybujte se vlevo či vpravo.
+        hint: Zobrazení před/po
+        leave_view: Opustit zobrazení před/po
+        start: Spustit zobrazení před/po
+        start_title: Spustit zobrazení před/po
+      chapter: Kapitola
+      chart:
+        toggle: Přepnout
+      close: Zavřít
+      close_hint: Zavřít nápovědu
+      close_navigation: Zavřít navigaci
+      close_overview: Zavřít náhled
+      cookie_notice_html: 
+      deprecated_browser: "<p>Používáte zastaralý prohlížeč, je proto možné, že nedokáže tuto stránku zobrazit tak, jak byla navržena. Doporučujeme jej aktualizovat na nejnovější verzi.</p>"
+      dismiss_cookie_notice: 
+      embedded_video:
+        leave_video: Zavřít vložené video
+      enlarge_view: Zvětšit zobrazení
+      enter_fullscreen: Přes celou obrazovku
+      first_page: Na titulní stranu
+      forward: Vpřed
+      fullscreen: Přes celou obrazovku
+      goto_first_page: Jít na první stránku
+      goto_top: Jít na první stránku
+      hide_text: Skrýt text
+      home: Začátek
+      imprint: Tiráž
+      javascript_hint: Tato aplikace vyžaduje pro správné fungování JavaScript. Váš prohlížeč JavaScript nepodporuje, nebo jej máte vypnutý.
+      languages:
+        ar: 
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: 
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
+      leave_fullscreen: Opustit režim přes celou obrazovku
+      lets_go: Spustit
+      logo: Logo
+      media_quality: 
+      mute_off: Zapnout zvuk
+      mute_on: Vypnout zvuk
+      navigate_top: Jít na první stránku
+      navigation: Navigace
+      new_pages_box:
+        additional_pages_html: "...a <span></span> další"
+        description: 'Stránky, které zde přibyly od vaší poslední návštěvy:'
+        title: Nové stránky
+      notice: Upozornění
+      open_audio: 
+      open_navigation: Otevřít navigaci
+      open_overview: Otevřít obsah
+      open_video: 
+      overview: Obsah
+      panorama:
+        close: Zavřít 360° panorama a zobrazit text
+        start: Otevřít 360° panorama
+      play_video: Přehrát video
+      privacy_notice: 
+      scroll_back_indicator: " "
+      scroll_down: Scrollujte dolů
+      scroll_hint: Procházejte stránky otáčením kolečka myši nebo šipkami na klávesnici
+      scroll_indicator: Pokračujte dolů
+      scroll_left: Pokračujte scrollováním dolů
+      scroll_right: Scrollujte doprava
+      scroll_up: Scrollujte nahoru
+      share: Sdílejte
+      share_on_facebook: Sdílejte na Facebooku
+      share_on_google: 'Sdílejte na Google+ '
+      share_on_twitter: Sdílejte na Twitteru
+      share_this_entry: Celý příspěvek
+      share_this_page: Přímo tuto stránku
+      show_home: Start
+      show_text: Zobrazit text
+      skip_links_content: Přejít na obsah
+      skip_links_navigation: Přejít k navigaci
+      skip_links_top_navigation: Na hlavní navigaci
+      sound_hint: Tato multimediální reportáž obsahuje zvukovou stopu. Máte zapnuté reproduktory, případně nasazená sluchátka?
+      start_audio: Poslechněte si
+      start_video: Podívejte se
+      swipe_hint: Listujte tahem prstu po obrazovce
+      swipe_indicator: Pokračujte tahem prstu
+      swipe_to_continue: 
+      text_track_modes:
+        auto: 
+        auto_off: 
+        none: 
+      text_tracks: 
+      toggle_info_box: 
+      video: Video
+      video_qualities:
+        annotations:
+          4k: 
+          fullhd: 
+          medium: 
+        labels:
+          4k: 
+          auto: 
+          fullhd: 
+          medium: 
+      volume: Hlasitost
+      vr:
+        no_vr:
+          link: 
+          text: 
+        select_quality: 
+        start: 
+        start_cardboard: 
+        video_qualities:
+          4k: 
+          fullhd: 
+          high: 
+        video_quality_annotations:
+          4k: 
+          fullhd: 
+          high: 

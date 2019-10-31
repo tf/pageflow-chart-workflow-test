@@ -1,0 +1,138 @@
+en:
+  pageflow:
+    public:
+      _language: English
+      audio: Audio
+      back: Back
+      back_to_chapter: Back to chapter
+      before_after:
+        drag_hint: Press the left mouse button and move left or right
+        hint: Before/after view
+        leave_view: Leave before/after view
+        start: Start before/after view
+        start_title: Start before/after view
+      chapter: Chapter
+      chart:
+        toggle: Toggle
+      close: Close
+      close_hint: Close hint
+      close_navigation: Close navigation
+      close_overview: Close overview
+      cookie_notice_html: This website uses cookies. By using our services, you agree to our use of cookies. <a href="%{privacyLinkUrl}" target="_blank">Learn more</a>
+      deprecated_browser: "<p>Your browser is outdated and this page might not work as intended. We recommend upgrading your browser to the most recent version.</p>"
+      dismiss_cookie_notice: Hide
+      embedded_video:
+        leave_video: Leave embedded video
+      enlarge_view: Enlarge view
+      enter_fullscreen: Enter Fullscreen mode
+      first_page: First page
+      forward: Forward
+      fullscreen: Fullscreen
+      goto_first_page: Go to first page
+      goto_top: Goto first page
+      hide_text: Hide text
+      home: Start
+      imprint: Imprint
+      javascript_hint: This application utilizes JavaScript for enhanced functionality and user experience. Your browser may not support JavaScript or it may be disabled.
+      languages:
+        ar: Arabic
+        cs: Czech
+        de: German
+        dk: Danish
+        el: Greek
+        en: English
+        es: Spanish
+        fr: French
+        it: Italian
+        nl: Dutch
+        pl: Polish
+        pt: Portuguese
+        ru: Russioan
+        sr: Serbian
+        tr: Turkish
+        unknown: "(Unknown)"
+        zh: Chinese
+      leave_fullscreen: Exit fullscreen mode
+      lets_go: Let's go
+      logo: Logo
+      media_quality: Quality
+      mute_off: Unmute
+      mute_on: Mute
+      navigate_top: Goto first page
+      navigation: Navigation
+      new_pages_box:
+        additional_pages_html: "...and <span></span> more"
+        description: 'Since your last visit, pages have been added to this pageflow:'
+        title: New Pages
+      notice: Notice
+      open_audio: Open audio
+      open_navigation: Open navigation
+      open_overview: Open overview
+      open_video: Open video
+      overview: Overview
+      panorama:
+        close: Close 360° panorama and display text
+        start: Start 360° panorama
+      play_video: Play video
+      privacy_notice: Privacy notice
+      scroll_back_indicator: " "
+      scroll_down: Scroll down
+      scroll_hint: Use the mouse wheel or the arrow keys on your keyboard to navigate between pages.
+      scroll_indicator: Scroll down to continue
+      scroll_left: Scroll left
+      scroll_right: Scroll right
+      scroll_up: Scroll up
+      share: Share
+      share_on_facebook: Share on Facebook
+      share_on_google: Share on Google+
+      share_on_linked_in: Share on LinkedIn
+      share_on_twitter: Share on Twitter
+      share_in_whats_app: Share in WhatsApp
+      share_in_telegram: Share in Telegram
+      share_via_email: Share via Email
+      share_this_entry: This story
+      share_this_page: This page
+      show_home: Start
+      show_text: Show text
+      skip_links_content: Goto content
+      skip_links_navigation: Goto navigation
+      skip_links_top_navigation: Goto main navigation
+      sound_hint: This multimedia story format uses video and audio footage. Please make sure your speakers are turned on.
+      start_audio: Start audio now
+      start_video: Start video now
+      swipe_hint: Swipe to navigate between pages.
+      swipe_indicator: Swipe to continue
+      swipe_to_continue: Swipe to continue
+      text_track_modes:
+        auto: Auto (%{label})
+        auto_off: Auto (Off)
+        none: "(None)"
+      text_tracks: Subtitles
+      toggle_info_box: Toggle info box
+      video: Video
+      video_qualities:
+        annotations:
+          4k: 4K
+          fullhd: HD
+          medium: HD
+        labels:
+          4k: 2160p
+          auto: Auto
+          fullhd: 1080p
+          medium: 720p
+      volume: Volume
+      vr:
+        no_vr:
+          link: Show video in Youtube app.
+          text: 360° videos can't be displayed in your browser.
+        select_quality: Choose video quality
+        start: Watch 360° video
+        start_cardboard: Start cardboard mode
+        video_qualities:
+          4k: 2160s
+          fullhd: 1080s
+          high: 720s
+        video_quality_annotations:
+          4k: 4K
+          fullhd: HD
+          high: HD

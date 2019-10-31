@@ -1,0 +1,134 @@
+ar:
+  pageflow:
+    public:
+      _language: العربية
+      audio: الصوت
+      back: عودة
+      back_to_chapter: عودة إلى الفصل
+      before_after:
+        drag_hint: انقر زر الفأرة الأيسر وحركها يمينًا أو يسارًا
+        hint: عرض قبل/بعد
+        leave_view: إغلاق عرض قبل/بعد
+        start: بدء عرض قبل/بعد
+        start_title: بدء عرض قبل/بعد
+      chapter: " الفصل"
+      chart:
+        toggle: تفعيل/إيقاف
+      close: " إغلاق"
+      close_hint: إغلاق الشرح
+      close_navigation: إغلاق التصفح
+      close_overview: إغلاق العرض العام
+      cookie_notice_html: 
+      deprecated_browser: " <p>متصفحك قديم وقد لا تظهر هذه الصفحة بالشكل المطلوب. نوصي بترقية المتصفح إلى أحدث نسخة.</p>"
+      dismiss_cookie_notice: 
+      embedded_video:
+        leave_video: إغلاق عرض الفيديو
+      enlarge_view: تكبير العرض
+      enter_fullscreen: العرض على كامل الشاشة
+      first_page: " الصفحة الأولى"
+      forward: " إلى الأمام"
+      fullscreen: كامل الشاشة
+      goto_first_page: ذهاب إلى الصفحة الأولى
+      goto_top: ذهاب إلى الصفحة الأولى
+      hide_text: " إخفاء النص"
+      home: بدء
+      imprint: طباعة
+      javascript_hint: " هذا التطبيق يستخدم JavaScript لتسهيل عمله ولتجربة مستخدم أفضل. قد يكون متصفحك لا يدعم JavaScript، أو قد تكون هذه التقنية غير مفعلة."
+      languages:
+        ar: " العربية"
+        cs: 
+        de: 
+        dk: 
+        el: 
+        en: الإنكليزية
+        es: 
+        fr: 
+        it: 
+        nl: 
+        pl: 
+        pt: 
+        ru: 
+        sr: 
+        tr: 
+        unknown: 
+        zh: 
+      leave_fullscreen: " إغلاق العرض على كامل الشاشة"
+      lets_go: البداية
+      logo: " الشعار"
+      media_quality: الجودة
+      mute_off: " تشغيل الصوت"
+      mute_on: إخفاء الصوت
+      navigate_top: ذهاب إلى الصفحة الأولى
+      navigation: التصفح
+      new_pages_box:
+        additional_pages_html: "...والمزيد"
+        description: 'منذ زيارتك الأخيرة، تمت إضافة صفحات جديدة:'
+        title: الصفحات الجديدة
+      notice: تنويه
+      open_audio: فتح ملف الصوت
+      open_navigation: فتح التصفح
+      open_overview: فتح العرض العام
+      open_video: فتح ملف الفيديو
+      overview: العرض العام
+      panorama:
+        close: إغلاق بانوراما 360 درجة وعرض النص
+        start: " بدء بانوراما 360 درجة"
+      play_video: " تشغيل الفيديو"
+      privacy_notice: سياسة الخصوصية
+      scroll_back_indicator: 
+      scroll_down: " إلى الأسفل"
+      scroll_hint: استخدم عجلة الفأرة أو أزرار الأسهم على لوحة المفاتيح للتنقل بين الصفحات
+      scroll_indicator: اذهب إلى الأسفل للاستمرار
+      scroll_left: " اذهب إلى اليسار"
+      scroll_right: اذهب إلى اليمين
+      scroll_up: " اذهب إلى الأعلى"
+      share: مشاركة
+      share_on_facebook: مشاركة على فيسبوك
+      share_on_google: مشاركة على غوغل+
+      share_on_twitter: مشاركة على تويتر
+      share_this_entry: هذه القصة
+      share_this_page: " هذه الصفحة"
+      show_home: " بدء"
+      show_text: " إظهار النص"
+      skip_links_content: عرض المحتويات
+      skip_links_navigation: " عرض التصفح"
+      skip_links_top_navigation: عرض التصفح الرئيسي
+      sound_hint: " هذه القصة متعددة الوسائط تستخدم الفيديو والصوت. يُرجى التأكد من تشغيل مكبرات الصوت."
+      start_audio: بدء تشغيل الصوت الآن
+      start_video: بدء تشغيل الفيديو الآن
+      swipe_hint: حرك إصبعك على الشاشة للتنقل بين الصفحات
+      swipe_indicator: 'حرك إصبعك للاستمرار '
+      swipe_to_continue: 
+      text_track_modes:
+        auto: " أوتوماتيكي (%{label}) "
+        auto_off: " أوتوماتيكي (إيقاف)"
+        none: " (لا شيء)"
+      text_tracks: الترجمة
+      toggle_info_box: " تشغيل/إيقاف صندوق المعلومات"
+      video: فيديو
+      video_qualities:
+        annotations:
+          4k: 4K
+          fullhd: " HD"
+          medium: HD
+        labels:
+          4k: " 2160p"
+          auto: " أوتوماتيكي"
+          fullhd: 1080p
+          medium: 720p
+      volume: " درجة الصوت"
+      vr:
+        no_vr:
+          link: " عرض الفيديو في تطبيق يوتيوب"
+          text: فيديوهات 360 درجة لا يمكن تشغيلها في متصفحك
+        select_quality: " اختيار جودة الفيديو"
+        start: مشاهدة فيديو 360 درجة
+        start_cardboard: 'بدء نمط لوح البطاقات '
+        video_qualities:
+          4k: " 2160s"
+          fullhd: " 1080s"
+          high: 720s
+        video_quality_annotations:
+          4k: 4K
+          fullhd: HD
+          high: HD
