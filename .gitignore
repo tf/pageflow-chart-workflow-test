@@ -19,5 +19,6 @@ test/version_tmp
 tmp
 log
 Gemfile.lock
+vendor/bundle
 
 .localeapp
