@@ -1,6 +1,6 @@
 # CHANGELOG
 
-### Version 1.8.0
+### Version 1.8.0!
 
 2019-10-31
 
