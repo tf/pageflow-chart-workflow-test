@@ -33,5 +33,5 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         COMMIT_MESSAGE: "Prepare release"
         PULL_REQUEST_TITLE: "Prepare release"
-        PULL_REQUEST_BRANCH: "release-123"
+        PULL_REQUEST_BRANCH: "release-1234"
         BRANCH_SUFFIX: "none"
