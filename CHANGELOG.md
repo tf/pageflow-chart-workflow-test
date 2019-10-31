@@ -1,10 +1,10 @@
 # CHANGELOG
 
-### Version 1.7.0
+### Version 1.8.0
 
 2019-10-31
 
-[Compare changes](https://github.com/codevise/pageflow-embedded-video/compare/1-6-stable...v1.7.0)
+[Compare changes](https://github.com/codevise/pageflow-embedded-video/compare/1-7-stable...v1.8.0)
 
 None so far.
 
